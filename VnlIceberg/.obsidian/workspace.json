@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "2925322eccff4e58",
+    "type": "split",
+    "children": [
+      {
+        "id": "9276f9acd5e9b278",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9189fc7d4be21d44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vnl iceberg/1st layer/3 - Empty 255.6 LJWR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7db0c38ae744d758",
+    "type": "split",
+    "children": [
+      {
+        "id": "eedad81eb84db6b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec70f3d10418fd43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d776840c3f2a0d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28171df20aeea79b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a05f5ba3366ae1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fdf85fa7a25e655",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c2f1759e99414a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vnl iceberg/1st layer/3 - Empty 255.6 LJWR.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a12c7659b24c5d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vnl iceberg/1st layer/3 - Empty 255.6 LJWR.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2226fbb8a1ff7b98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "60db98ad1104b75e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vnl iceberg/1st layer/3 - Empty 255.6 LJWR.md"
+              }
+            }
+          },
+          {
+            "id": "4812715a9d11946e",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ec885e758deed2e",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false
+    }
+  },
+  "active": "ec70f3d10418fd43",
+  "lastOpenFiles": [
+    "Vnl iceberg/1st layer/4 - Bhop Macro's.md",
+    "Vnl iceberg/1st layer/5 - Gostrafe 128t movement practive.md",
+    "Vnl iceberg/5th layer/1 - Xinc Duality finish.md",
+    "Vnl iceberg/5th layer/2 - Djw 253.5 lj.md",
+    "Vnl iceberg/5th layer/5 - Foxy 268.1 LAH.md",
+    "Vnl iceberg/5th layer/8 - PIG tech.md",
+    "Vnl iceberg/5th layer/15 - Quack 251.2 OFFICIAL MBH WR.md",
+    "Vnl iceberg/5th layer/14 - 2 wheels ♡.md",
+    "Vnl iceberg/5th layer/13 - AlphaTesting CSGO server.md",
+    "Vnl iceberg/5th layer/12 - Nova 253 NoBind.md",
+    "Vnl iceberg/1st layer/3 - Empty 255.6 LJWR.md",
+    "Vnl iceberg/1st layer/2 - Vesq plays VNL.md",
+    "Vnl iceberg/Iceberg.md",
+    "Vnl iceberg/1st layer/6 - NadeKing vnl videos.md",
+    "Vnl iceberg/3rd layer/1 - Millionware.md",
+    "Vnl iceberg/2nd layer/11 - Raidboss.md",
+    "Vnl iceberg/2nd layer/10 - OFFICIAL LJ WR.md",
+    "Vnl iceberg/2nd layer/7 - Lucas VNL Team.md",
+    "Vnl iceberg/2nd layer/6 - Thunk 255.1.md",
+    "Vnl iceberg/2nd layer/5 - True 254 Long Jump.md",
+    "Vnl iceberg/5th layer/7 -  HathDose can suck his own dick (LOL).md",
+    "Vnl iceberg/2nd layer/1 - AlphaTesting first 251 block.md",
+    "Vnl iceberg/2nd layer/2 - Pixelsurfs+Pixelwalks.md",
+    "Vnl iceberg/Assets/Pasted image 20240915202230.png",
+    "Vnl iceberg/Manual/Long Jump Bind.md",
+    "Vnl iceberg/Manual/Strafe.md",
+    "Vnl iceberg/Manual/Surf.md",
+    "Vnl iceberg/Assets/Pasted image 20240915184222.png",
+    "Vnl iceberg/Assets/Pasted image 20240915182153.png",
+    "Vnl iceberg/2nd layer/Assets/Pasted image 20240915181954.png",
+    "Vnl iceberg/Assets/Pasted image 20240915183551.png",
+    "Vnl iceberg/Assets/Pasted image 20240915183621.png",
+    "Vnl iceberg/Assets/Pasted image 20240915184243.png",
+    "Vnl iceberg/Assets/Pasted image 20240915184254.png",
+    "Vnl iceberg/Assets/Pasted image 20240915184522.png",
+    "Vnl iceberg/Assets/iceberg_vnl.png",
+    "Vnl iceberg/5th layer/Assets",
+    "Vnl iceberg/2nd layer/Assets",
+    "Vnl iceberg/8th layer/Assets",
+    "Vnl iceberg/Assets/253.8 Zaro wr.mp4",
+    "Vnl iceberg/Manual",
+    "Vnl iceberg/1st layer/Assets/253.8 Zaro wr.mp4",
+    "Vnl iceberg/1st layer/Assets",
+    "Vnl iceberg/Assets",
+    "Vnl iceberg/1st layer/6 - Nadeking vnl videos",
+    "Vnl iceberg/1st layer/5 - Gostrafe 128t movement practice"
+  ]
+}
